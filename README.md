@@ -37,11 +37,11 @@ The project combines **Excel/CSV, Python, and Power BI** to perform data analysi
 
 ### Bank Loan Analysis Dashboard
 
-![Dashboard Page 1](dashboard_page1.png)
+![Dashboard Page 1](./dashboard_page1.png)
 
-![Dashboard Page 2](dashboard_page2.png)
+![Dashboard Page 2](./dashboard_page2.png)
 
-![Dashboard Page 3](dashboard_page3.png)
+![Dashboard Page 3](./dashboard_page3.png)
 
 ## 🔍 Key Analysis Areas
 
