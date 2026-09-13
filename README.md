@@ -39,7 +39,7 @@ The project combines **Excel/CSV, Python, and Power BI** to perform data analysi
 
 ![Dashboard Page 1](Dashboard_page1.png)
 
-![Dashboard Page 2](Dashboard_page2.png)
+![Dashboard Page 2](Dashboard_ page2.png)
 
 ![Dashboard Page 3](Dashboard_page3.png)
 
