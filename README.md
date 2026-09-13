@@ -28,7 +28,7 @@ The project combines **Excel/CSV, Python, and Power BI** to perform data analysi
 
 * `loan_approval_dataset.csv` – Loan approval dataset
 * `Bank_Loan_Analysis.ipynb` / `.py` – Python analysis
-* `Bank_Loan_Analysis.pbix` – Power BI dashboard
+* `Bank_Loan_dahboard.pbix` – Power BI dashboard
 * `dashboard_page1.png` – Dashboard Page 1
 * `dashboard_page2.png` – Dashboard Page 2
 * `dashboard_page3.png` – Dashboard Page 3
@@ -37,11 +37,11 @@ The project combines **Excel/CSV, Python, and Power BI** to perform data analysi
 
 ### Bank Loan Analysis Dashboard
 
-![Dashboard Page 1](./dashboard_page1.png)
+![Dashboard Page 1](./Dashboard_Page1.png)
 
-![Dashboard Page 2](./dashboard_page2.png)
+![Dashboard Page 2](./Dashboard_Page2.png)
 
-![Dashboard Page 3](./dashboard_page3.png)
+![Dashboard Page 3](./Dashboard_Page3.png)
 
 ## 🔍 Key Analysis Areas
 
